@@ -18,7 +18,7 @@ const divRowCountdown = document.createElement('div')
 divRowCountdown.classList.add('row', 'justify-content-center')
 
 const divColDays = document.createElement('div')
-divColDays.classList.add('col-3', 'col-sm-2', 'col-md-2', 'col-lg-1', 'text-center', 'mx-0', 'px-0')
+divColDays.classList.add('col-3', 'col-sm-2', 'col-md-2', 'col-lg-1', 'text-center', 'mx-lg-2', 'px-0')
 
 const days = document.createElement('h2')
 days.setAttribute('id', 'days"')
@@ -29,7 +29,7 @@ textDays.classList.add('text-light')
 textDays.textContent = 'Dias'
 
 const divColHours = document.createElement('div')
-divColHours.classList.add('col-3', 'col-sm-2', 'col-md-2', 'col-lg-1', 'text-center', 'mx-0', 'px-0')
+divColHours.classList.add('col-3', 'col-sm-2', 'col-md-2', 'col-lg-1', 'text-center', 'mx-lg-2', 'px-0')
 const hours = document.createElement('h2')
 hours.setAttribute('id', 'hours"')
 hours.classList.add('text-light')
@@ -39,7 +39,7 @@ textHours.classList.add('text-light')
 textHours.textContent = 'Horas'
 
 const divColminutes = document.createElement('div')
-divColminutes.classList.add('col-3', 'col-sm-2', 'col-md-2', 'col-lg-1', 'text-center', 'mx-0', 'px-0')
+divColminutes.classList.add('col-3', 'col-sm-2', 'col-md-2', 'col-lg-1', 'text-center', 'mx-lg-2', 'px-0')
 
 const minutes = document.createElement('h2')
 minutes.setAttribute('id', 'minutes"')
@@ -54,7 +54,7 @@ seconds.setAttribute('id', 'seconds"')
 seconds.classList.add('text-light')
 
 const divColSeconds = document.createElement('div')
-divColSeconds.classList.add('col-3', 'col-sm-2', 'col-md-2', 'col-lg-1', 'text-center', 'mx-0', 'px-0')
+divColSeconds.classList.add('col-3', 'col-sm-2', 'col-md-2', 'col-lg-1', 'text-center', 'mx-lg-2', 'px-0')
 
 const textSeconds = document.createElement('small')
 textSeconds.classList.add('text-light')
