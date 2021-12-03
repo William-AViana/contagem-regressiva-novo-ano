@@ -31,7 +31,7 @@ criando elementos e trabalhando com a função Date.</p>
 
 <h2 id="licença">Licença</h2>
 
-<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="">LICENSE</a> para mais detalhes.</p>
+<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/William-AViana/contagem-regressiva-novo-ano/blob/main/LICENSE">LICENSE</a> para mais detalhes.</p>
 
 <h2>☁️ Deploy:</h2>
-https://william-aviana.github.io/dev.finances/
+https://william-aviana.github.io/contagem-regressiva-novo-ano/
