@@ -37,7 +37,7 @@ body::after {
   font-size: 140px;
   opacity: 0.2;
   position: absolute;
-  bottom: 20px;
+  bottom: 10px;
   left: 50%;
   transform: translateX(-50%);
 }
