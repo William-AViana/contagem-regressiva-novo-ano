@@ -80,7 +80,7 @@ divColSeconds.appendChild(textSeconds)
 const nextYear = document.createElement('div')
 nextYear.setAttribute('id', 'year')
 nextYear.classList.add('year', 'text-center', 'text-light')
-divContainer.appendChild(nextYear)
+app.appendChild(nextYear)
 
 const proximoAno = new Date().getFullYear() + 1
 nextYear.textContent = proximoAno
